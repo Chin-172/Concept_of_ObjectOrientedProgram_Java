@@ -28,5 +28,11 @@ Branch : **Modifier**
 Branch : **Polymorphism**
 - *Note*
 
+Branch : **Inheritance**
+- *Digimon.java*
+- *Hospital.java*
+- *Monster.java*
+- *App.java*
+
 ---
 Last Edited on: 09 January 2022
