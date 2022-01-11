@@ -20,5 +20,11 @@ If the modifier **Final** is placed before the definition of a **method**, then 
 ![](https://i.imgur.com/93gBibx.png)
 
 
+Branch : **Inheritance**
+- *Digimon.java*
+- *Hospital.java*
+- *Monster.java*
+- *App.java*
+
 ---
 Last Edited on: 10 January 2022
